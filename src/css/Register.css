@@ -1,0 +1,17 @@
+form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 30px;
+    height: 600px;
+    width: 400px;
+    background-color:bisque;
+    border: 1px solid red;
+}
+.div1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
